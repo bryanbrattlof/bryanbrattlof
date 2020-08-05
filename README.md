@@ -1,4 +1,5 @@
 ### Hi 👋 I’m Bryan, and I like to create things.
+All my projects are over at [git.bryanbrattlof.com]
 
 - 💡 A naturally curious person working on something fun.
 - 🔭 Always working on contributing more to the Linux Kernel.
@@ -7,9 +8,7 @@
 - 😄 Pronouns: [he/him]
 - ⚡ Fun Fact: I’m a pilot 🛩️
 
-**All my projects are over at [git.bryanbrattlof.com]**
-
-### ✏ My Latest Essays @ [bryanbrattlof.com]
+### ✏ My Latest Essays:
 <!-- BLOG-POST-LIST:START -->
 - [The Hello World Kernel Module](https://bryanbrattlof.com/the-hello-world-kernel-module/)
 - [Humble Pi](https://bryanbrattlof.com/humble-pi/)
@@ -18,7 +17,6 @@
 - [Removing Git LFS From A Project](https://bryanbrattlof.com/removing-git-lfs-from-a-project/)
 - [Upheaval](https://bryanbrattlof.com/upheaval/)
 <!-- BLOG-POST-LIST:END --> 
-
 
 [bryanbrattlof.com]: https://bryanbrattlof.com
 [email]: mailto:hello@bryanbrattlof.com
