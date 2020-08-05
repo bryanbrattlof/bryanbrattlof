@@ -1,8 +1,19 @@
-### Hi there 👋
+Hi 👋 I’m Bryan, and I like to create things.
+
+- 💡 A naturally curious person working on something fun.
+- 🔭 Always working on contributing more to the Linux Kernel.
+- 🌱 Currently learning everything I can about Embedded Systems
+- 📫 How to reach me: [email] | [twitter]
+- 😄 Pronouns: [he/him]
+- ⚡ Fun Fact: I’m a pilot 🛩️
+
+All my projects are over at [git.bryanbrattlof.com]
+
+[email]: hello@bryanbrattlof.com
+[git.bryanbrattlof.com]: https://bryanbrattlof.com
+[twitter]: https://twitter.com/bryanbrattlof
 
 <!--
-**bryanbrattlof/bryanbrattlof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
