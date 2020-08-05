@@ -1,4 +1,4 @@
-Hi 👋 I’m Bryan, and I like to create things.
+### Hi 👋 I’m Bryan, and I like to create things.
 
 - 💡 A naturally curious person working on something fun.
 - 🔭 Always working on contributing more to the Linux Kernel.
@@ -7,7 +7,7 @@ Hi 👋 I’m Bryan, and I like to create things.
 - 😄 Pronouns: [he/him]
 - ⚡ Fun Fact: I’m a pilot 🛩️
 
-All my projects are over at [git.bryanbrattlof.com]
+### All my projects are over at [git.bryanbrattlof.com]
 
 [email]: hello@bryanbrattlof.com
 [git.bryanbrattlof.com]: https://bryanbrattlof.com
