@@ -7,7 +7,7 @@
 - 😄 Pronouns: [he/him]
 - ⚡ Fun Fact: I’m a pilot 🛩️
 
-### All my projects are over at [git.bryanbrattlof.com]
+**All my projects are over at [git.bryanbrattlof.com]**
 
 [email]: hello@bryanbrattlof.com
 [git.bryanbrattlof.com]: https://bryanbrattlof.com
