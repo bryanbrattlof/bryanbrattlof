@@ -1,0 +1,20 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog-posts:
+    name: Update README with the latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG_POST_LIST"
+          commit_message: "add latest blog posts"
+          committer_username: "beep-boop-bot"
+          committer_email: "beep.boop@example.com"
+          feed_list: "https://bryanbrattlof.com/feeds/all.atom.xml"
+          max_post_count: 6

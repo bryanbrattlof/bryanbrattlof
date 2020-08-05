@@ -9,8 +9,14 @@
 
 **All my projects are over at [git.bryanbrattlof.com]**
 
+### 🖋️ My Latest Essays @ [bryanbrattlof.com]
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
+
+
+[bryanbrattlof.com]: https://bryanbrattlof.com
 [email]: mailto:hello@bryanbrattlof.com
-[git.bryanbrattlof.com]: https://bryanbrattlof.com
+[git.bryanbrattlof.com]: https://git.bryanbrattlof.com
 [twitter]: https://twitter.com/bryanbrattlof
 
 <!--
