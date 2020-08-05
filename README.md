@@ -9,7 +9,7 @@
 
 **All my projects are over at [git.bryanbrattlof.com]**
 
-[email]: hello@bryanbrattlof.com
+[email]: mailto:hello@bryanbrattlof.com
 [git.bryanbrattlof.com]: https://bryanbrattlof.com
 [twitter]: https://twitter.com/bryanbrattlof
 
