@@ -9,7 +9,7 @@
 
 **All my projects are over at [git.bryanbrattlof.com]**
 
-### 🖋️ My Latest Essays @ [bryanbrattlof.com]
+### ✏ My Latest Essays @ [bryanbrattlof.com]
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
 
