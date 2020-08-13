@@ -1,7 +1,7 @@
 ### Hi 👋 I’m Bryan, and I like to create things.
 
 - 💡 A naturally curious person working on something fun.
-- 🔭 Always working on contributing more to the Linux Kernel.
+- 🔭 Always working on contributing more to the [Linux Kernel].
 - 🌱 Currently learning everything I can about Embedded Systems
 - 📫 How to reach me: [email] | [twitter]
 - 😄 Pronouns: [he/him]
@@ -19,10 +19,9 @@
 
 ### All my projects are over at [git.bryanbrattlof.com]
 
-
-[bryanbrattlof.com]: https://bryanbrattlof.com
 [email]: mailto:hello@bryanbrattlof.com
 [git.bryanbrattlof.com]: https://git.bryanbrattlof.com
+[Linux Kernel]: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=hello%40bryanbrattlof.com
 [twitter]: https://twitter.com/bryanbrattlof
 
 <!--
