@@ -9,12 +9,12 @@
 
 ### ✏ My Latest Essays:
 <!-- BLOG-POST-LIST:START -->
+- [Prepared](https://bryanbrattlof.com/prepared/)
+- [Building The Linux Kernel](https://bryanbrattlof.com/building-the-linux-kernel/)
 - [The Hello World Kernel Module](https://bryanbrattlof.com/the-hello-world-kernel-module/)
 - [Humble Pi](https://bryanbrattlof.com/humble-pi/)
 - [Probably Approximately Correct](https://bryanbrattlof.com/probably-approximately-correct/)
 - [The Mosquito](https://bryanbrattlof.com/the-mosquito/)
-- [Removing Git LFS From A Project](https://bryanbrattlof.com/removing-git-lfs-from-a-project/)
-- [Upheaval](https://bryanbrattlof.com/upheaval/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### All my projects are over at [git.bryanbrattlof.com]
