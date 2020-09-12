@@ -9,12 +9,12 @@
 
 ### ✏ My Latest Essays:
 <!-- BLOG-POST-LIST:START -->
+- [Tribe](https://bryanbrattlof.com/tribe/)
 - [Why We Sleep](https://bryanbrattlof.com/why-we-sleep/)
 - [Modify The Linux Kernel](https://bryanbrattlof.com/modify-the-linux-kernel/)
 - [Prepared](https://bryanbrattlof.com/prepared/)
 - [Building The Linux Kernel](https://bryanbrattlof.com/building-the-linux-kernel/)
 - [The Hello World Kernel Module](https://bryanbrattlof.com/the-hello-world-kernel-module/)
-- [Humble Pi](https://bryanbrattlof.com/humble-pi/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### All my projects are over at [git.bryanbrattlof.com]
