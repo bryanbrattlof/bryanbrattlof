@@ -9,12 +9,12 @@
 
 ### ✏ My Latest Essays:
 <!-- BLOG-POST-LIST:START -->
+- [Calling Bullshit](https://bryanbrattlof.com/calling-bullshit/)
 - [Adding OpenStreetMaps To Matplotlib](https://bryanbrattlof.com/adding-openstreetmaps-to-matplotlib/)
 - [Tribe](https://bryanbrattlof.com/tribe/)
 - [Why We Sleep](https://bryanbrattlof.com/why-we-sleep/)
 - [Modify The Linux Kernel](https://bryanbrattlof.com/modify-the-linux-kernel/)
 - [Prepared](https://bryanbrattlof.com/prepared/)
-- [Building The Linux Kernel](https://bryanbrattlof.com/building-the-linux-kernel/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### All my projects are over at [git.bryanbrattlof.com]
