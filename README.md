@@ -1,8 +1,8 @@
 ### Hi 👋 I’m Bryan, and I like to create things.
 
 - 💡 A naturally curious person working on something fun.
-- 🔭 Always working on contributing more to the [Linux Kernel].
-- 🌱 Currently learning everything I can about Embedded Systems
+- 🌱 Currently exploring the wonderful world of FIOA.
+- 🔭 Slowly working on contributing more to the [Linux Kernel].
 - 📫 How to reach me: [email] | [twitter]
 - 😄 Pronouns: [he/him]
 - ⚡ Fun Fact: I’m a pilot 🛩️
@@ -17,7 +17,7 @@
 - [Prepared](https://bryanbrattlof.com/prepared/)
 <!-- BLOG-POST-LIST:END --> 
 
-### All my projects are over at [git.bryanbrattlof.com]
+__The majority of my projects are over at [git.bryanbrattlof.com]__
 
 [email]: mailto:hello@bryanbrattlof.com
 [git.bryanbrattlof.com]: https://git.bryanbrattlof.com
