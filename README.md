@@ -9,12 +9,12 @@
 
 ### ✏ My Latest Essays:
 <!-- BLOG-POST-LIST:START -->
+- [Boston Parking Tickets](https://bryanbrattlof.com/boston-parking-tickets/)
 - [Cgit, Nginx & Gitolite: A Personal Git Server](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/)
 - [The Great Influenza](https://bryanbrattlof.com/the-great-influenza/)
 - [Calling Bullshit](https://bryanbrattlof.com/calling-bullshit/)
 - [Adding OpenStreetMaps To Matplotlib](https://bryanbrattlof.com/adding-openstreetmaps-to-matplotlib/)
 - [Tribe](https://bryanbrattlof.com/tribe/)
-- [Why We Sleep](https://bryanbrattlof.com/why-we-sleep/)
 <!-- BLOG-POST-LIST:END --> 
 
 __The majority of my projects are over at [git.bryanbrattlof.com]__
