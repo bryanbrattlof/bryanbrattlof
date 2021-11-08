@@ -12,7 +12,7 @@
 - [My PGP Cheat Sheet](https://bryanbrattlof.com/my-pgp-cheat-sheet/)
 - [The Linux Kernel Coding Style](https://bryanbrattlof.com/the-linux-kernel-coding-style/)
 - [Boston Parking Tickets](https://bryanbrattlof.com/boston-parking-tickets/)
-- [Cgit, Nginx & Gitolite: A Personal Git Server](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/)
+- [Cgit, Nginx &amp; Gitolite: A Personal Git Server](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/)
 - [The Great Influenza](https://bryanbrattlof.com/the-great-influenza/)
 - [Calling Bullshit](https://bryanbrattlof.com/calling-bullshit/)
 <!-- BLOG-POST-LIST:END --> 
