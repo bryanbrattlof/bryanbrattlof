@@ -3,7 +3,7 @@
 - 💡 A naturally curious person working on something fun.
 - 🌱 Currently exploring the wonderful world of FIOA.
 - 🔭 Slowly working on contributing more to the [Linux Kernel].
-- 📫 How to reach me: [email] | [twitter]
+- 📫 How to reach me: [email] | [mastodon]
 - 😄 Pronouns: [he/him]
 - ⚡ Fun Fact: I’m a pilot 🛩️
 
@@ -17,12 +17,12 @@
 - [The Great Influenza](https://bryanbrattlof.com/the-great-influenza/)
 <!-- BLOG-POST-LIST:END --> 
 
-__The majority of my projects are over at [git.bryanbrattlof.com]__
+__The majority of my projects are over at [SourceHut]__
 
 [email]: mailto:hello@bryanbrattlof.com
-[git.bryanbrattlof.com]: https://git.bryanbrattlof.com
+[SourceHut]: https://git.sr.ht/~bryanb
 [Linux Kernel]: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=hello%40bryanbrattlof.com
-[twitter]: https://twitter.com/bryanbrattlof
+[mastodon]: https://toot.works/@bb
 
 <!--
 Here are some ideas to get you started:
